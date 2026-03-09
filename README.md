@@ -16,14 +16,9 @@ The challenge involves recreating three historical Directed Acyclic Graphs (DAGs
 
 **View the complete challenge and interactive content:**
 
-👉 **[https://flyaflya.github.io/daftChallenge/](https://flyaflya.github.io/daftChallenge/)**
+👉 **[https://vchiluka22.github.io/daftChallenge/](https://vchiluka22.github.io/daftChallenge/)**
 
-The GitHub Pages website contains the full interactive challenge with:
-- Detailed historical context about scurvy
-- Step-by-step DAFT programming tutorials
-- Interactive code examples
-- Professional styling demonstrations
-- Complete grading rubric and submission checklist
+The GitHub Pages website contains the scurvy story, the three DAGs (1747, misguided belief, 1928), and DAFT documentation.
 
 ## 🚀 Getting Started
 

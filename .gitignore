@@ -1,3 +1,9 @@
+# Local preview (do not push)
+preview.html
+preview_dag1.png
+preview_dag2.png
+preview_dag3.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
